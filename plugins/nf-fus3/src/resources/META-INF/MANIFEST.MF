@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Plugin-Id: nf-fus3
+Plugin-Version: 0.4.0
+Plugin-Class: nextflow.fus3.Fus3Plugin
+Plugin-Provider: nextflow
+Plugin-Requires: >=22.10.0
+Plugin-Dependencies: nf-amazon

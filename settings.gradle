@@ -1,0 +1,4 @@
+rootProject.name = 'nf-fus3'
+include('plugins')
+include('plugins:nf-fus3')
+includeBuild('../nextflow')
